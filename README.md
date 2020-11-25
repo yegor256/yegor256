@@ -4,5 +4,6 @@ You may want to:
 1. [follow me](https://twitter.com/intent/follow?screen_name=yegor256) on Twitter,
 and
 1. check the repos I'm working on right now:
+[EO](https://github.com/eo),
 [DeGit](https://github.com/yegor256/degit),
 [Polystat](https://github.com/cqfn/polystat).
