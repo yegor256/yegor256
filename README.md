@@ -6,4 +6,4 @@ and
 1. Check the repos I'm working on right now:
 [EOLANG](https://github.com/cqfn/eo),
 [DeGit](https://github.com/cqfn/degit),
-[Polystat](https://github.com/polystat) (still private).
+[Polystat](https://github.com/polystat).
