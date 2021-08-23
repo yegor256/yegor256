@@ -4,6 +4,5 @@ You may want to:
 3. Subscribe to [my channel](https://t.me/yegor256news) in Telegram
 4. [Follow me](https://twitter.com/intent/follow?screen_name=yegor256) on Twitter
 5. Check the repos I'm working on right now:
-[EOLANG](https://github.com/cqfn/eo),
-[DeGit](https://github.com/cqfn/degit),
+[EOLANG](https://github.com/cqfn/eo) and
 [Polystat](https://github.com/polystat).
