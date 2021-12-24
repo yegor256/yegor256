@@ -6,4 +6,4 @@ You may want to:
 5. [Subscribe](https://www.youtube.com/c/yegor256?sub_confirmation=1) to my YouTube channel
 6. Check the repos I'm working on right now:
 [EOLANG](https://github.com/cqfn/eo) and
-[Polystat](https://github.com/polystat).
+[Polystat](https://github.com/polystat) (I need your help, please contribute!)
