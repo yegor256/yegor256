@@ -4,6 +4,7 @@
 [<img align="left" alt="yegor256 | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/yegor256news)
 [<img align="left" alt="yegor256 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/yegor256)
 
+
 You may want to:
 1. Buy [my books](https://www.amazon.com/Yegor-Bugayenko/e/B01AM1QMDK) on Amazon
 2. Read my blog at [yegor256.com](https://www.yegor256.com)
