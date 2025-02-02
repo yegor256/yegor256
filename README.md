@@ -13,3 +13,12 @@ You may want to:
 5. [Subscribe](https://www.youtube.com/c/yegor256?sub_confirmation=1) to my YouTube channel
 6. Check the project we're working on right now:
 [EO](https://github.com/objectionary/eo) (help needed, please contribute!)
+
+At the moment, your contribution is most welcome here: 
+[EO](https://github.com/objectionary/eo) (Java+XSLT),
+[Lints](https://github.com/objectionary/lints) (Java+XSLT),
+[CaM](https://github.com/yegor256/CaM) (Python+Bash),
+[Factbase](https://github.com/yegor256/factbase) (Ruby),
+[Bibcop](https://github.com/yegor256/bibcop) (Perl),
+[EOC](https://github.com/objectionary/eoc) (JavaScript),
+[SODG](https://github.com/objectionary/sodg) (Rust).
