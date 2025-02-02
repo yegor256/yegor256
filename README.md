@@ -11,8 +11,6 @@ You may want to:
 3. Subscribe to [my channel](https://t.me/yegor256news) in Telegram
 4. [Follow me](https://x.com/intent/follow?screen_name=yegor256) on X
 5. [Subscribe](https://youtube.com/c/yegor256?sub_confirmation=1) to my YouTube channel
-6. Check the project we're working on right now:
-[EO](https://github.com/objectionary/eo) (help needed, please contribute!)
 
 At the moment, your contribution is most welcome here: 
 [EO](https://github.com/objectionary/eo) (Java+XSLT),
