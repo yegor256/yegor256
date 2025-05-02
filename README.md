@@ -9,7 +9,7 @@ You may want to:
 1. Buy [my books](https://www.amazon.com/Yegor-Bugayenko/e/B01AM1QMDK) on Amazon, e.g. [Angry Tests](https://amzn.to/4iK82IK), [Elegant Objects](https://amzn.to/3YZa5Bs), [Code Ahead](https://amzn.to/3EKrfMw)
 2. Read my blog at [yegor256.com](https://www.yegor256.com)
 3. Subscribe to [my channel](https://t.me/yegor256news) in Telegram
-4. [Follow me](https://x.com/intent/follow?screen_name=yegor256) on X
+4. [Follow me](https://x.com/intent/follow?screen_name=yegor256) on 𝕏
 5. [Subscribe](https://youtube.com/c/yegor256?sub_confirmation=1) to my YouTube channel
 
 At the moment, your contribution is most welcome here: 
