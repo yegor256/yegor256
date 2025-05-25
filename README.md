@@ -1,7 +1,7 @@
-[<img align="left" alt="yegor256 | Gmail" width="22px" src="https://cdn.simpleicons.org/gmail/black/white" />](mailto:yegor256@gmail.com)
+[<img align="left" alt="yegor256 | Gmail" width="22px" src="https://raw.githubusercontent.com/yegor256/blog/refs/heads/master/_glyphs/mail.svg" />](mailto:yegor256@gmail.com)
 [<img align="left" alt="yegor256 | LinkedIn" width="22px" src="https://raw.githubusercontent.com/yegor256/blog/refs/heads/master/_glyphs/linkedin.svg" />](https://www.linkedin.com/in/yegor256)
-[<img align="left" alt="yegor256 | Twitter" width="22px" src="https://cdn.simpleicons.org/x/black/white" />](https://x.com/intent/follow?screen_name=yegor256)
-[<img align="left" alt="yegor256 | Telegram" width="22px" src="https://cdn.simpleicons.org/telegram/black/white" />](https://t.me/yegor256news)
+[<img align="left" alt="yegor256 | Twitter" width="22px" src="https://raw.githubusercontent.com/yegor256/blog/refs/heads/master/_glyphs/twitter.svg" />](https://x.com/intent/follow?screen_name=yegor256)
+[<img align="left" alt="yegor256 | Telegram" width="22px" src="https://raw.githubusercontent.com/yegor256/blog/refs/heads/master/_glyphs/telegram.svg" />](https://t.me/yegor256news)
 <!-- [<img align="left" alt="yegor256 | Instagram" width="22px" src="https://cdn.simpleicons.org/instagram/black/white" />](https://instagram.com/yegor256) -->
 <br/>
 
